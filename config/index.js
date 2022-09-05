@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "X47lbyUsQlKtEX4IOI2Ps_Q1Ww2K0KKa9ANy6ygfnLg",
+      useTemplateId: "BG719av0Nye6r2jzhg4xP9C_NyYl6O2oiWv1izr4hAY",
       // 所在省份
       province: "辽宁",
       // 所在城市
@@ -104,7 +104,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "猪咪", "year": "2002", "date": "08-30"},
     {"type": "生日", "name": "佑海", "year": "2002", "date": "04-27"},
-    {"type": "节日", "name": "纪念日", "year": "2022", "date": "03-01"},
+    {"type": "节日", "name": "our anniversary", "year": "2022", "date": "03-01"},
   ],
 
   /**
@@ -136,7 +136,7 @@ export const config = {
     * */
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    {"keyword": "encourage_oneself", contents: "你主要的问题在于读书太少而想得太多"},
+    {"keyword": "bottom", contents: "14亿人里，我最喜欢你！"},
     // 这样配置的话，就会每次随机选一句话发送
     {"keyword": "lover_prattle", contents: [
       "因为太喜欢你，所以看谁都像是情敌。",
