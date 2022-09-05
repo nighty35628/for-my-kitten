@@ -27,17 +27,17 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "猪咪",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "WgbvR5YGN07DINpcS8p0SX-t34HVtvXsoUhWYDwYVlQ",
+      useTemplateId: "X47lbyUsQlKtEX4IOI2Ps_Q1Ww2K0KKa9ANy6ygfnLg",
       // 所在省份
-      province: "广东",
+      province: "辽宁",
       // 所在城市
-      city: "肇庆",
+      city: "葫芦岛",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://35628club.com/"
     }, 
     {
       name: "老婆1", 
@@ -89,9 +89,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "吉林",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "长春",
 
   /** 重要节日相关 */
 
@@ -102,10 +102,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "猪咪", "year": "2002", "date": "08-30"},
+    {"type": "生日", "name": "佑海", "year": "2002", "date": "04-27"},
+    {"type": "节日", "name": "纪念日", "year": "2022", "date": "03-01"},
   ],
 
   /**
@@ -123,11 +122,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
-    // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
-    // 退伍日, 不用可以删掉
-    {"keyword": "ex_day", date: "2022-08-31"},
+    {"keyword": "love_day", date: "2022-03-01"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
