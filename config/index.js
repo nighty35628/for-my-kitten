@@ -29,12 +29,12 @@ export const config = {
       // 想要发送的人的名字
       name: "猪咪",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: "ok5OyI4k4-dp_gNGaNRyMCL46VHPvQDZ9lHilbO_nR0",
+      //id: "ogNRB6QFaUAM4SLmQ5OCk312QY4s",
       //猪咪
       id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
       //佑海
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "hn3MHfgL1jeXRtKo871zO88PDYNjBP-iqixnk9dYgzs",
+      useTemplateId: "ok5OyI4k4-dp_gNGaNRyMCL46VHPvQDZ9lHilbO_nR0",
       // 所在省份
       province: "吉林",
       // 所在城市
