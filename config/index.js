@@ -29,18 +29,18 @@ export const config = {
       // 想要发送的人的名字
       name: "猪咪",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ogNRB6QFaUAM4SLmQ5OCk312QY4s",
+      //id: "ogNRB6QFaUAM4SLmQ5OCk312QY4s",
       //猪咪
-      //id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
+      id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
       //佑海
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "oqSm9Iy0vOu033uG0C8QQvyn3oLbSnihJP6UUM7Ekcg",
+      useTemplateId: "hn3MHfgL1jeXRtKo871zO88PDYNjBP-iqixnk9dYgzs",
       // 所在省份
-      province: "辽宁",
+      province: "吉林",
       // 所在城市
-      city: "葫芦岛",
+      city: "长春",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://35628club.com/morning"
+      openUrl: "https://nightytale.com/morning"
     }, 
    
   ],
