@@ -34,7 +34,7 @@ export const config = {
       id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
       //佑海
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ok5OyI4k4-dp_gNGaNRyMCL46VHPvQDZ9lHilbO_nR0",
+      useTemplateId: "am8ErkXpwwW-qW9VN47LAINTh9kd6TSNHdPDzKqeswk",
       // 所在省份
       province: "吉林",
       // 所在城市
