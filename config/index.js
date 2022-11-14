@@ -34,7 +34,7 @@ export const config = {
       //id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
       //佑海
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ok5OyI4k4-dp_gNGaNRyMCL46VHPvQDZ9lHilbO_nR0",
+      useTemplateId: "jKTGmBN1MVkvnE4qNh5bIOOZhMzMz99NIC_Jiq4UrEI",
       // 所在省份
       province: "吉林",
       // 所在城市
@@ -52,7 +52,7 @@ export const config = {
       id: "ogNRB6ZJ4mnSb9nlWF2_Whd5uvM8",
       //佑海
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ok5OyI4k4-dp_gNGaNRyMCL46VHPvQDZ9lHilbO_nR0",
+      useTemplateId: "jKTGmBN1MVkvnE4qNh5bIOOZhMzMz99NIC_Jiq4UrEI",
       // 所在省份
       province: "吉林",
       // 所在城市
